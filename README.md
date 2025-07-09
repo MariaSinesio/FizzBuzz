@@ -4,5 +4,8 @@
  
 👾 Caso tenha curiosidade e vontade de fazer pelo LeetCode [clique aqui](https://leetcode.com/problems/fizz-buzz/). 
 
+Esse exercício é relativamente (E teoricamente) simples, já que envolve questões como loops, sequencias, matemática básica, condicionais e assim vai, dependendo da sua criatividade e perseverança. 🐾
+
+#### Minha experiência
 
   
